@@ -251,7 +251,7 @@ export default function App() {
           <div className="w-24 h-1 bg-terracotta mx-auto mt-4" />
         </div>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <MenuCard name="Chicken White Karahi" price="Rs. 1550" description="The cream of Islamabad. Yogurt based velvety gravy with freshly cracked white pepper." img="./img/kar.jpg" tag="Best Seller" />
+          <MenuCard name="Chicken White Karahi" price="Rs. 1550" description="The cream of Islamabad. Yogurt based velvety gravy with freshly cracked white pepper." img="./img/wtk.jpg" tag="Best Seller" />
           <MenuCard name="Mutton Karahi" price="Rs. 2600" description="Fresh lean mutton cooked in its own juices with hand-picked organic tomatoes." img="https://t4.ftcdn.net/jpg/13/94/41/11/240_F_1394411172_nIAE3I5Mjb6LgDwEwSJhK7D6crSho3S0.jpg" />
           <MenuCard name="Sufi Desi Ghee Karahi" price="Rs. 1850" description="Prepared in pure Desi Ghee for the ultimate traditional feast experience." img="https://media.gettyimages.com/id/1434775113/photo/chicken-tikka-masala.jpg?s=612x612&w=0&k=20&c=O5Y6wwZM0Jo_42WXzOp6XRZVJdf7NkXGpsPcbHGPy9I=" />
         </div>
