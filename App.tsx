@@ -222,7 +222,7 @@ export default function App() {
       <Section id="specialities" className="bg-cream">
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           <motion.div whileHover={{ scale: 1.02 }} className="relative rounded-[3rem] overflow-hidden shadow-2xl transition-transform duration-700">
-            <img src="./img/kab.jpg" alt="Chappal Kabab" className="w-full" />
+            <img src="https://untoldrecipesbynosheen.com/wp-content/uploads/2025/02/chapli-kabab-featured.jpg" alt="Chappal Kabab" className="w-full" />
             <div className="absolute inset-0 bg-terracotta/20 mix-blend-multiply" />
           </motion.div>
           <div>
@@ -251,7 +251,7 @@ export default function App() {
           <div className="w-24 h-1 bg-terracotta mx-auto mt-4" />
         </div>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <MenuCard name="Chicken White Karahi" price="Rs. 1550" description="The cream of Islamabad. Yogurt based velvety gravy with freshly cracked white pepper." img="./img/wtk.jpg" tag="Best Seller" />
+          <MenuCard name="Chicken White Karahi" price="Rs. 1550" description="The cream of Islamabad. Yogurt based velvety gravy with freshly cracked white pepper." img="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4hjLBS3KRIkcY3BsSpd46C0lUTMPkAOATPA&s" tag="Best Seller" />
           <MenuCard name="Mutton Karahi" price="Rs. 2600" description="Fresh lean mutton cooked in its own juices with hand-picked organic tomatoes." img="https://t4.ftcdn.net/jpg/13/94/41/11/240_F_1394411172_nIAE3I5Mjb6LgDwEwSJhK7D6crSho3S0.jpg" />
           <MenuCard name="Sufi Desi Ghee Karahi" price="Rs. 1850" description="Prepared in pure Desi Ghee for the ultimate traditional feast experience." img="https://media.gettyimages.com/id/1434775113/photo/chicken-tikka-masala.jpg?s=612x612&w=0&k=20&c=O5Y6wwZM0Jo_42WXzOp6XRZVJdf7NkXGpsPcbHGPy9I=" />
         </div>
@@ -296,9 +296,9 @@ export default function App() {
           </div>
         </div>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <MenuCard name="Chicken Tikka" price="Rs. 320" description="Classic leg/breast piece marinated in traditional Sufi masalas." img="./img/tik.jpg" />
-          <MenuCard name="Maloie Tikka" price="Rs. 650" description="Ultra creamy, mild spice boti that literally melts." img="./img/mt.jpg" tag="Family Fav" />
-          <MenuCard name="Mix Bar-B-Q (Special)" price="Rs. 2450" description="The ultimate platter: Seekh Kabab, Maloie Boti, Tikka & Chappal Kabab." img="./img/bbq.jpg" tag="Best Value" />
+          <MenuCard name="Chicken Tikka" price="Rs. 320" description="Classic leg/breast piece marinated in traditional Sufi masalas." img="https://t4.ftcdn.net/jpg/05/85/17/03/360_F_585170352_7D9PjNXOvU3PAB4ynMRWpEavhBNuLG3J.jpg" />
+          <MenuCard name="Maloie Tikka" price="Rs. 650" description="Ultra creamy, mild spice boti that literally melts." img="https://t3.ftcdn.net/jpg/12/08/32/04/360_F_1208320464_YimkvnmQd5tG4FeqK2BGkYRCloIHFybB.jpg" tag="Family Fav" />
+          <MenuCard name="Mix Bar-B-Q (Special)" price="Rs. 2450" description="The ultimate platter: Seekh Kabab, Maloie Boti, Tikka & Chappal Kabab." img="https://media.istockphoto.com/id/531464020/photo/beef-steaks-on-the-grill.jpg?s=612x612&w=0&k=20&c=bGH-BIOJULADBnyfCiEs5nbM1gWYHKr1UiSDbPn_vZY=" tag="Best Value" />
         </div>
       </Section>
 
